@@ -43,7 +43,7 @@ function SectionMain() {
       {/* D! */}
         <div className="absolute top-[-20px] overflow-hidden flex items-center justify-center">
         <div className='overflow-hidden text-[#C4C4C4] text-[60px] md:text-[120px] lg:text-[140px]'>
-            <span id="d" className="inline-block">
+            <span id="d" className="inline-block opacity-0">
             D
             </span>
             <span id="excl" className="inline-block opacity-0">
@@ -55,13 +55,13 @@ function SectionMain() {
             {/* DESIGN,DECLARES,UK */}
         <div id="design" className="flex flex-col justify-center space-y-2">
         <div className="overflow-hidden">
-            <div className="line text-[#C4C4C4] text-[60px] md:text-[120px] lg:text-[140px] leading-none">DESIGN</div>
+            <div className="line text-[#C4C4C4] text-[60px] md:text-[120px] lg:text-[140px] leading-none opacity-0">DESIGN</div>
         </div>
         <div className="overflow-hidden">
-            <div className="line text-[#C4C4C4] text-[60px] md:text-[120px] lg:text-[140px]  leading-none">DECLARES</div>
+            <div className="line text-[#C4C4C4] text-[60px] md:text-[120px] lg:text-[140px]  leading-none opacity-0">DECLARES</div>
         </div>
         <div className="overflow-hidden">
-            <div className="line text-[60px] md:text-[120px] lg:text-[140px] text-[#ff6340] leading-none">UK</div>
+            <div className="line text-[60px] md:text-[120px] lg:text-[140px] text-[#ff6340] leading-none opacity-0">UK</div>
         </div>
         </div>
         </div>

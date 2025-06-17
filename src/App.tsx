@@ -25,7 +25,7 @@ function App() {
           <Route path="/contact" element={<ContactPage />} />
         </Routes>
 
-        <div className=' sticky w-fit left-[100%] bottom-9 mb-3' id="headerMenuSticky">
+        <div className='sticky w-fit left-[100%] bottom-9 mb-3 opacity-0' id="headerMenuSticky">
         <HeaderMenu />
         </div>
         </div>
