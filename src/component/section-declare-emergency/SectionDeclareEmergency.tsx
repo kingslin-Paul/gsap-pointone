@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from 'react'
+import { useEffect, useState } from 'react'
 import CustomCheckbox from '../custom-checkbox/CustomCheckbox';
 import gsap from "gsap";
 import { ScrollTrigger } from "gsap/ScrollTrigger";

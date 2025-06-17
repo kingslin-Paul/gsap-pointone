@@ -1,5 +1,5 @@
 
-import React, { useEffect, useState } from 'react';
+import { useEffect, useState } from 'react';
 
 function ScrollProgressBar() {
   const [scrollWidth, setScrollWidth] = useState(0);

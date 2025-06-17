@@ -1,4 +1,3 @@
-import React from 'react'
 import SectionMain from '../component/section-main/SectionMain'
 import SectionBreakdown from '../component/section-breakdown/SectionBreakdown'
 import SectionDonate from '../component/section-donate/SectionDonate'

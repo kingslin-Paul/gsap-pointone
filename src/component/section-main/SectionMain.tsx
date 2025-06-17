@@ -1,7 +1,5 @@
-import React from 'react'
 import { useEffect } from "react";
 import gsap from "gsap";
-import HeaderMenu from '../header-menu/HeaderMenu';
 
 function SectionMain() {
 
